@@ -1,9 +1,10 @@
 def convert_strings(names):
     """
     - Goal: convert strings to uppercase
-    Step 1: Got through each string
-    Step 2: Apply the .upper() function
-    Step 3: Return the new strings
+    Step 1: Create an empty list
+    Step 2: Got through each string
+    Step 3: Apply the .upper() function
+    Step 4: Return the new strings
     """
     new_names = []
     for name in names:
